@@ -1,0 +1,76 @@
+
+
+   body{
+    font-weight: 400;
+    font-family: Verdana,lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    color: #303030;
+    margin: 0px;
+    
+    }
+
+
+    
+     
+    
+    
+
+   
+   
+   .carousel-caption h2{
+        font-size: 50px;
+        color:white;
+        font-weight: 500;
+        text-transform: uppercase;
+        font-family: V Geneva, Tahoma, sans-serif;
+        text-shadow: 3px 3px 3px rgb(185, 185, 185);
+    }
+
+ 
+
+    .card h1{ 
+        font-size: 10px;
+
+
+    }
+
+    
+
+
+
+
+
+    h1 {
+       color: black;
+        padding-bottom: 10px;
+       font-size: 24px;
+       font-weight: 600;
+
+    }
+
+
+
+
+
+  
+
+    p{
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 300;
+    }
+   
+
+    h5{
+
+        font-size: 5px;
+    }
+
+    .card-text {
+
+    font-size: 15px ;
+    color:black;
+}
+
+
